@@ -1,0 +1,15 @@
+id = 590042f3-b545-4868-bd40-ecaf09a12967
+
+[relations]
+
+[relations.collections]
+rootDirectory = postman/collections
+files[] = {"id":"ab9fa7e0-1954-409d-b38e-4aae873c5a35","path":"demo3_889219-ab9fa7e0-1954-409d-b38e-4aae873c5a35.json","metaData":{}}
+
+[relations.collections.metaData]
+
+[relations.apiDefinition]
+rootDirectory = postman/schemas
+
+[relations.apiDefinition.metaData]
+type = openapi:3
